@@ -1,0 +1,16 @@
+{
+  "name": "emoji-dump",
+  "version": "1.0.0",
+  "description": "emojis for 5etools",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheGiddyLimit/emoji-dump.git"
+  },
+  "bugs": {
+    "url": "https://github.com/TheGiddyLimit/emoji-dump/issues"
+  },
+  "homepage": "https://github.com/TheGiddyLimit/emoji-dump#readme"
+}
